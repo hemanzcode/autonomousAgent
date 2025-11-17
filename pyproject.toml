@@ -1,0 +1,15 @@
+[project]
+name = "autonomousagent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agno>=2.2.13",
+    "ddgs>=9.9.1",
+    "groq>=0.34.1",
+    "openai>=2.8.0",
+    "python-dotenv>=1.2.1",
+    "tavily-python>=0.7.13",
+    "yfinance>=0.2.66",
+]

@@ -1,0 +1,16 @@
+# Arquivos de configuração local
+.env
+.env.*
+*.env
+
+# venv
+.venv/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos Python
+__pycache__/
+*.pyc
